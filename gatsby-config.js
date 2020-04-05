@@ -26,6 +26,8 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sharp',
+    'gatsby-remark-embed-video',
+    'gatsby-remark-responsive-iframe',
     {
       resolve: 'gatsby-source-contentful',
       options: contentfulConfig,
